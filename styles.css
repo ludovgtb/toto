@@ -1,3 +1,13 @@
 * {font-family: sans-serif;}
 
-h1 {color: red;}
+h1 {color: beige;}
+
+body {background-color: crimson;}
+
+.header_nav_menu {display: flex;}
+
+.header_nav_menu_item {
+  display: flex;
+  padding: 50px;
+  color: beige;
+}
