@@ -1,6 +1,6 @@
 info.txt
 /dist
-.cash
+.cache
 node_modules
 .vscode
-.ds_store
+.DS_Store
