@@ -1,0 +1,6 @@
+info.txt
+/dist
+.cash
+node_modules
+.vscode
+.ds_store
