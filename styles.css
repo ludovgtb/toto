@@ -2,12 +2,14 @@
 
 h1 {color: beige;}
 
-body {background-color: crimson;}
+body {background-color: #222;}
 
 .header_nav_menu {display: flex;}
 
 .header_nav_menu_item {
   display: flex;
-  padding: 50px;
-  color: beige;
+  padding: 70px;
+  color: #fff;
 }
+
+.body_p {color: #fff;}
